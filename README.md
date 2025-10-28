@@ -4,6 +4,8 @@
 
 MUVideoPlayer is a MuseScore plugin that synchronizes video playback with your musical scores. Follow the instructions below for your operating system.
 
+![](https://github.com/tharos-devs/MU4VideoPlayer/blob/main/MUVideoPlayer.png?raw=true)
+
 ---
 
 ## Installation Instructions
